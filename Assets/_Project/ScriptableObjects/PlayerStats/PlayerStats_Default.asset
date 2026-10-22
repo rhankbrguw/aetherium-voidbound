@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7defba6c5660d05c2a8a8c55156b4527, type: 3}
+  m_Name: PlayerStats_Default
+  m_EditorClassIdentifier: Assembly-CSharp::Aetherium.Player.Data.PlayerStatsSO
+  maxHealth: 100
+  maxStamina: 100
+  staminaRegenRate: 25
+  staminaRegenDelay: 1
+  walkSpeed: 4
+  runSpeed: 7.5
+  rotationSpeed: 12
+  dodgeSpeed: 11
+  dodgeDuration: 0.45
+  dodgeStaminaCost: 20
